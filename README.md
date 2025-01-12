@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Simple Button Logic*
 
-Submitted by: **Your Name Here**
+Submitted by: **Grace(Shuting) Gong**
 
-**Name of your app** is an app that... [TODO] 
+**Name of your app** is an app that show case labels and buttons with logic to change background color
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
